@@ -78,7 +78,7 @@ Getting started with the S9 Game is quick and easy. Follow the instructions belo
 
 ### Android Users
 1. **Visit the Official Website**  
-   - Open your browser and go to the official S9 Game download page: [Download S9 Game APK](https://example.com/download).
+   - Open your browser and go to the official S9 Game download page: [Download S9 Game APK](https://lp.s9.game/m/share?channel=6&userId=1882816&shareCode=1882816&bindCode=700).
    
 2. **Download the APK**  
    - Click the download button to save the APK file to your device.
@@ -100,7 +100,7 @@ Getting started with the S9 Game is quick and easy. Follow the instructions belo
 ### iOS Users
 1. **Visit the App Store**  
    - Open the App Store on your iPhone or iPad.
-   - Search for "S9 Game" or visit this link: [Download on App Store](https://example.com/app-store).
+   - Search for "S9 Game" or visit this link: [Download on App Store](https://lp.s9.game/m/share?channel=6&userId=1882816&shareCode=1882816&bindCode=700).
 
 2. **Download and Install**  
    - Tap on the "Get" button to download and install the game.
@@ -163,7 +163,7 @@ Follow these step-by-step guides to install the S9 Game seamlessly on your devic
 ### iOS Installation Guide
 
 1. **Download the App**  
-   Open the App Store and search for "S9 Game" or use this direct link: [App Store Link](https://example.com/app-store).
+   Open the App Store and search for "S9 Game" or use this direct link: [App Store Link](https://lp.s9.game/m/share?channel=6&userId=1882816&shareCode=1882816&bindCode=700).
 
 2. **Install the App**  
    - Tap the "Get" button and wait for the app to download and install.
